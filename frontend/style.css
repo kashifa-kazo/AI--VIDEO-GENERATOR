@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 40px;
+}
+
+textarea {
+    width: 600px;
+    height: 120px;
+    padding: 10px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 12px 24px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+video {
+    margin-top: 20px;
+}
